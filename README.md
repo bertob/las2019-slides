@@ -2,7 +2,7 @@
 
 Slides for the talk Jordan Petridis and I gave at LAS 2019.
 
-(Video recording on Youtube](https://youtu.be/2A_UaDyN8Dw?t=16115) 
+[Video recording on Youtube](https://youtu.be/2A_UaDyN8Dw?t=16115) 
 
 ### Abstract
 
