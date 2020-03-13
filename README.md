@@ -2,6 +2,8 @@
 
 Slides for the talk Jordan Petridis and I gave at LAS 2019.
 
+(Video recording on Youtube](https://youtu.be/2A_UaDyN8Dw?t=16115) 
+
 ### Abstract
 
 A frequent meme in our community is the idea that there is a "Linux desktop" platform, which exists on a similar level to other operating systems. The truth is that this is not the case, never will be, and pretending that it is is a major reason why it is so hard to build a viable app ecosystem. App developers are faced with a myriad of different environments, no one good path to ship apps to people or get paid for their work, and things like theming ripping out API from under them randomly. Is it any wonder that we're having a hard time attracting developers?
